@@ -20,6 +20,7 @@
   "homepage": "https://github.com/CamKirk/hawtrestaurant#readme",
   "dependencies": {
     "express": "^4.16.4",
-    "materialize-css": "^1.0.0-rc.2"
+    "materialize-css": "^1.0.0-rc.2",
+    "mysql": "^2.16.0"
   }
 }

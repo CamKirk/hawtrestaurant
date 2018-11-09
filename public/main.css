@@ -1,0 +1,9 @@
+.homeHero {
+    background-image: url('https://images.pexels.com/photos/5317/food-salad-restaurant-person.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260'),
+    linear-gradient(135deg, #FD6585 10%, #0D25B9 100%);
+    background-size: cover;
+    background-position: fixed;
+    background-blend-mode: lighten;
+
+}
+
